@@ -68,6 +68,7 @@ The template supports all variables from the official LaTeX template plus additi
 |date|date|
 |datename|name of date|
 |emailseparator|separator between email name and email address|
+|encl|enclosures|
 |enclseparator|separator between title of enclosure and enclosures|
 |faxseparator|separator between title of fax and fax number|
 |firstfooter|footer of the letterhead page|
